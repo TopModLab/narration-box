@@ -1,4 +1,4 @@
-package edu.tamu.narrationbox.narrationbox;
+package edu.tamu.narrationbox;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
